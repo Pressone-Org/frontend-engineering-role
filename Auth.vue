@@ -1,0 +1,12 @@
+  margin: auto; 
+} 
+form { 
+  display: flex; 
+  flex-direction: column; 
+  gap: 10px; 
+} 
+button { 
+  margin-top: 10px; 
+} 
+</style> 
+
